@@ -1,0 +1,19 @@
+.header-cart {
+  position: relative;
+
+  &__badge {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    top: 0;
+    right: -15px;
+    background-color: red;
+    color: aliceblue;
+    border-radius: 25px;
+  }
+}
+
+
