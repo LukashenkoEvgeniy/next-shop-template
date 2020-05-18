@@ -9,7 +9,7 @@
     "start": "next start",
     "release": "release-it --no-npm.publish"
   },
-  "author": "",
+  "author": "Lukashenko",
   "license": "ISC",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
