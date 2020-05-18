@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "release": "release-it --no-npm.publish"
   },
   "author": "",
   "license": "ISC",
@@ -19,6 +20,7 @@
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
     "redux": "^4.0.5",
+    "release-it": "^13.6.1",
     "swr": "^0.1.18"
   }
 }
